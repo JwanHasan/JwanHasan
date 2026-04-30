@@ -13,6 +13,7 @@ I am a student at VIA University (for now ), passionate about coding and explori
 - Applying OOP and other programming concepts to real-world projects
 
  🌱 What I'm Learning
+ 
 -C programming
 -React
 -Machine Learning (ML)
