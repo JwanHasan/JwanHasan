@@ -14,10 +14,10 @@ I am a student at VIA University (for now ), passionate about coding and explori
 
  🌱 What I'm Learning
  
--C programming
--React
--Machine Learning (ML)
--DevOps practices
--Cloud technologies (Microsoft Azure)
--Docker
--1Kubernetes
+- C programming
+- React
+- Machine Learning (ML)
+- DevOps practices
+- Cloud technologies (Microsoft Azure)
+- Docker
+- Kubernetes
